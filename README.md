@@ -1,4 +1,6 @@
 rest-api
 ========
 
-Restful API class developed by Arun Kumar Sekar
+REST class to manage RESTful APIs
+
+Developed by Arun Kumar Sekar

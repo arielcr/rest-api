@@ -1,0 +1,13 @@
+{
+    "name": "arielcr/rest",
+    "description": "REST class to manage RESTful APIs",
+    "keywords": ["rest","restapi","restful"],
+    "homepage": "https://github.com/arielcr/rest-api",
+    "authors": [
+        {
+            "name": "Arun Kumar Sekar",
+            "email": "arunfairy@hotmail.com",
+            "role": "Developer"
+        }
+    ]
+}
