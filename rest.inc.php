@@ -2,6 +2,9 @@
 	/* File : rest.inc.php
 	 * Author : Arun Kumar Sekar
 	*/
+
+	namespace Arielcr;
+
 	class REST {
 		
 		public $_allow = array();

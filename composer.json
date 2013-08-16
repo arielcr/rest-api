@@ -9,5 +9,10 @@
             "email": "arunfairy@hotmail.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "Arielcr": "rest.inc.php"
+        }
+    }
 }
